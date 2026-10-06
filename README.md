@@ -48,7 +48,7 @@ Visit the live application here:
 
 | Field | Value |
 | --- | --- |
-| Email | `demoUser@1@gmail.com` |
+| Email | `demoUser1@gmail.com` |
 | Password | `demoUser1` |
 
 ## Architecture
