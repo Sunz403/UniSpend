@@ -22,7 +22,6 @@ Managing money as a student can be challenging. Between transport, groceries, su
 | Budget Tracking | Create budgets, record expenses, and monitor spending by category. |
 | Shopping List Management | Build and manage shopping lists while keeping planned purchases organised. |
 | Distance-Based Shipping | Calculate delivery considerations based on distance and location data. |
-| Financial Health Score | Receive a score based on budgeting habits, spending patterns, and savings progress. |
 | Savings Goals | Set personal savings goals and track progress over time. |
 | Budgeting Resources | Access educational content to improve financial literacy and budgeting skills. |
 | Favorites | Save frequently used products, resources, or items for quick access. |
