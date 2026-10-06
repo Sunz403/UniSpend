@@ -31,7 +31,7 @@ Managing money as a student can be challenging. Between transport, groceries, su
 | Area | Technologies |
 | --- | --- |
 | Backend | ASP.NET Core 8.0, C#, Entity Framework Core, PostgreSQL |
-| AI & Location Services | Google Gemini 2.0 Flash, Gemini Vision API, OpenCage Geocoder |
+| AI & Location Services | Google Gemini 3.1 Flash-Lite, Gemini Vision API, OpenCage Geocoder |
 | Frontend | Razor Views, Tailwind CSS, JavaScript, Chart.js, Leaflet.js |
 | DevOps & Hosting | Render.com, GitHub, Docker |
 
