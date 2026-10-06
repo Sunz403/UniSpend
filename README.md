@@ -43,8 +43,6 @@ Visit the live application here:
 
 ### Demo Credentials
 
-> Replace these placeholders with safe demo-account credentials before publishing.
-
 | Field | Value |
 | --- | --- |
 | Email | `demoUser1@gmail.com` |
